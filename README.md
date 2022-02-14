@@ -61,4 +61,4 @@ jdoc -i Rectangle.java -o Rectangle_doc.txt
 ```
 
 ## Screenshots
-![Student.java screenshot](student-screenshot.png)
+![Student.java screenshot](student-screenshot.PNG)
